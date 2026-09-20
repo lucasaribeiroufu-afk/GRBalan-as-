@@ -1,0 +1,6 @@
+{
+  "name": "GR Instrumentos de Pesagem",
+  "description": "Site institucional e e-commerce de balanças industriais, plataformas, sapatas agrícolas, balanças para gado e paleteiras com aprovação Inmetro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
